@@ -8,6 +8,8 @@ For experimenting some feature that we afraid to put in the real product. (expec
 ### [TP3](https://github.com/Transmatter/Transmatter_Content_POC) - Content CRUD with backend service
 ### [TP4](https://github.com/Transmatter/Transmatter_fetching_data) - Content fetching system
 ### [TP5](https://github.com/Transmatter/Transmatter_Content_Elastic_Search) - Searching Content Using Elastic Search
+### [TP6]() - Platform Screen Reader
+### [TP7]() - Platform Speech To Text
 
 ## Experiment
   `Nothing here maybe in the future`
