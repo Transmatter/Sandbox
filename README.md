@@ -13,7 +13,7 @@ For experimenting some feature that we afraid to put in the real product. (expec
 ### [TP8]() - Platform Hot Keys
 
 ## Experiment
-### [EPT1]() - Daisy UI tailwind component
+### [EPT1](https://github.com/Transmatter/Transmatter-experiment-daisyUI) - Daisy UI tailwind component
 
 ## Material
   1. 1 commit [read more...](https://cmu.to/kkrC3)
