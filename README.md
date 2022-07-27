@@ -10,9 +10,10 @@ For experimenting some feature that we afraid to put in the real product. (expec
 ### [TP5](https://github.com/Transmatter/Transmatter_Content_Elastic_Search) - Searching Content Using Elastic Search
 ### [TP6]() - Platform Screen Reader
 ### [TP7]() - Platform Speech To Text
+### [TP8]() - Platform Hot Keys
 
 ## Experiment
-  `Nothing here maybe in the future`
+### [EPT1]() - Daisy UI tailwind component
 
 ## Material
   1. 1 commit [read more...](https://cmu.to/kkrC3)
