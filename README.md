@@ -7,13 +7,13 @@ For experimenting some feature that we afraid to put in the real product. (expec
 ### [TP2](https://github.com/Transmatter/Transmatter-Mailing-Link) - Mailing register link from the backend server
 ### [TP3](https://github.com/Transmatter/Transmatter_Content_POC) - Content CRUD with backend service
 ### [TP4](https://github.com/Transmatter/Transmatter_fetching_data) - Content fetching system
-### [TP5](https://github.com/Transmatter/Transmatter_Content_Elastic_Search) - Searching Content Using Elastic Search
-### [TP6]() - Platform Screen Reader
-### [TP7]() - Platform Speech To Text
-### [TP8]() - Platform Hot Keys
+### [TP5]() - Platform Screen Reader
+### [TP6]() - Platform Speech To Text
+### [TP7]() - Platform Hot Keys
 
 ## Experiment
 ### [EPT1](https://github.com/Transmatter/Transmatter-experiment-daisyUI) - Daisy UI tailwind component
+### [EPT2](https://github.com/Transmatter/Transmatter_Content_Elastic_Search) - Searching Content Using Elastic Search
 
 ## Material
   1. 1 commit [read more...](https://cmu.to/kkrC3)
