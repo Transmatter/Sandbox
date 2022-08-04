@@ -14,7 +14,7 @@ For experimenting some feature that we afraid to put in the real product. (expec
 
 ## Experiment
 ### [EPT1](https://github.com/Transmatter/Transmatter-experiment-daisyUI) - Daisy UI tailwind component
-### [EPT2](https://github.com/Transmatter/Transmatter_Content_Elastic_Search) - Searching Content Using Elastic Search
+### [EPT2](https://github.com/Transmatter/Transmatter_Content_Elastic_Search) - Searching Content Using Solr
 
 ## Material
   1. 1 commit [read more...](https://cmu.to/kkrC3)
