@@ -7,7 +7,7 @@ For experimenting some feature that we afraid to put in the real product. (expec
 ### [TP2](https://github.com/Transmatter/Transmatter-Mailing-Link) - Mailing register link from the backend server
 ### [TP3](https://github.com/Transmatter/Transmatter_Content_POC) - Content CRUD with backend service
 ### [TP4](https://github.com/Transmatter/Transmatter_fetching_data) - Content fetching system
-### [TP8](https://colab.research.google.com/drive/1sfkzANO6oE7NwYcT-NE96X8KMlsqFQo8#scrollTo=KPwAyDJUOCC8) - Spell correction 
+### [TP8](https://colab.research.google.com/drive/1sfkzANO6oE7NwYcT-NE96X8KMlsqFQo8?usp=sharing) - Spell correction 
 ### [TP5]() - Platform Screen Reader
 ### [TP6]() - Platform Speech To Text
 ### [TP7]() - Platform Hot Keys
