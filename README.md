@@ -23,3 +23,4 @@ For experimenting some feature that we afraid to put in the real product. (expec
   5. Fetching code example`nozomiyamada/thainews` [read more...](https://github.com/nozomiyamada/thainews)
   6. Fetching code example 2 `xbklairith/thai-web-crawler` [read more...](https://github.com/xbklairith/thai-web-crawler)
   7. NoSQL data modelling [read more...](https://medium.com/skilllane/mongo-db-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B8%A3-%E0%B8%95%E0%B8%AD%E0%B8%99-data-model-design-458b2478c1e9)
+  8. Thai spell correction [read more...](https://dogterbox.medium.com/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3-word-spelling-correction-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-char2vec-6167430492bc)
