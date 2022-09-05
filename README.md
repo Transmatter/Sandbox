@@ -14,7 +14,7 @@ For experimenting some feature that we afraid to put in the real product. (expec
 ## Experiment
 ### [EPT1](https://github.com/Transmatter/Transmatter-experiment-daisyUI) - Daisy UI tailwind component
 ### [EPT2](https://github.com/Transmatter/Transmatter_Content_Elastic_Search) - Searching Content Using Solr - Failed ;-;
-### [EPT3](https://github.com/Transmatter/Transmatter_experiment_text_to_speech) - Speech To text
+### [EPT3](https://github.com/Transmatter/Transmatter_experiment_speech_to_text) - Speech To text
 
 ## Material
   1. 1 commit [read more...](https://cmu.to/kkrC3)
